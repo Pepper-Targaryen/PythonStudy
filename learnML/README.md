@@ -2,7 +2,7 @@
 
 [Original Source](https://github.com/Avik-Jain/100-Days-Of-ML-Code/)
 
-I'm learning ML with this github repository. The index of days is slightly different because n
+I'm learning ML with this github repository. The index of `days` is slightly different because I want to keep several days' code work into one file.
 
 Contents:
 
